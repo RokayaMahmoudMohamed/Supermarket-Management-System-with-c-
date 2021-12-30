@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\CompuHome\\source\\repos\\My_Supermarket_c#\\My_Supermarket_c#\\WinFormsApp2\\WinFormsApp2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\CompuHome\\source\\repos\\My_Supermarket_c#\\My_Supermarket_c#\\WinFormsApp2\\WinFormsApp2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CompuHome\\source\\repos\\My_Supermarket_c#\\My_Supermarket_c#\\WinFormsApp2\\WinFormsApp2.csproj",
+        "projectName": "WinFormsApp2",
+        "projectPath": "C:\\Users\\CompuHome\\source\\repos\\My_Supermarket_c#\\My_Supermarket_c#\\WinFormsApp2\\WinFormsApp2.csproj",
+        "packagesPath": "C:\\Users\\CompuHome\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CompuHome\\source\\repos\\My_Supermarket_c#\\My_Supermarket_c#\\WinFormsApp2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CompuHome\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.21, 3.1.21]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
